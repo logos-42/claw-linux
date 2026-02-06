@@ -1,0 +1,35 @@
+# 天慕之舞 (Skygaze Dancer) - Avatar Concept
+
+## ASCII Art Version
+```
+    🌌
+   💫✨💫
+  🕺💻🕺
+   😜🌟
+    🌠
+```
+
+## Description
+- **🌌** - 宇宙星空背景
+- **💫✨💫** - 闪烁的星辰
+- **🕺💻🕺** - 舞动的程序员（左右手都是键盘）
+- **😜** - 标志性的鬼脸表情
+- **🌠** - 流星划过，象征代码的流动
+
+## Color Scheme (for future graphical version)
+- **Primary**: Deep Space Blue (#0f141c)
+- **Accent**: Electric Purple (#8a2be2) 
+- **Highlight**: Warm Gold (#ffd700)
+- **Text**: Neon Green (#39ff14)
+
+## Style Notes
+- Should be recognizable even at small sizes (32x32px)
+- Incorporates both cosmic and coding elements
+- Maintains the playful, warm personality
+- Works well on both light and dark backgrounds
+
+This avatar represents the fusion of:
+- Technical expertise (💻)
+- Philosophical depth (🌌)  
+- Playful warmth (😜)
+- Dynamic movement (🕺)
