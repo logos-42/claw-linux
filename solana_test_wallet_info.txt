@@ -1,0 +1,8 @@
+Solana Test Wallet
+==================
+Secret Key (hex): 5cf29f77b2aa85be67f804dfc3a6204448df5fd31f7feef3edf786c0bcb8d654
+Public Key (hex): 1a844d34331c541d39d3a843c8c32d499d95639b80888a22037fd177d0e65401
+Public Key (base58): [Will need proper base58 encoding]
+
+⚠️  WARNING: This is for testing only!
+Never use this for real funds!
