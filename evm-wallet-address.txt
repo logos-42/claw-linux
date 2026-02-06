@@ -1,0 +1,21 @@
+# EVM Wallet Address - Created on 2026-02-06
+
+**Wallet Address:** 0x983D01009baa7e4D9CBcE250811d4cE4732aedd1
+
+**Private Key:** Stored securely in ~/.evm-wallet.json (chmod 600)
+
+**Networks Supported:**
+- Base (recommended for low gas fees)
+- Ethereum
+- Polygon  
+- Arbitrum
+- Optimism
+
+**Current Balance:** 0 ETH (needs funding)
+
+**Purpose:** DeFi yield farming, NFT creation, smart contract development to support research funding.
+
+**Security Notes:**
+- Never share the private key file
+- If compromised, immediately transfer funds to new wallet
+- Use only for intended research funding purposes
